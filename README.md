@@ -1,6 +1,6 @@
 # 🧪 Chemical Equipment Analytics System
 
-A full-stack analytics application that allows users to upload CSV data of chemical equipment parameters, visualize insights through charts, and generate simple downloadable PDF reports.
+This is a  full-stack analytics application that allows users to upload CSV data of chemical equipment parameters, visualize insights through charts, and generate simple downloadable PDF reports.
 
 This project demonstrates:
 
@@ -115,6 +115,8 @@ This project uses **Basic Authentication** for API access.
 * Used for development and simplicity
 * You will receive **401 Unauthorized** if credentials are missing
 
+![alt text](image.png)
+
 **Example:**
 
 * Username and password passed via Authorization header (Basic Auth)
@@ -144,6 +146,7 @@ This project uses **Basic Authentication** for API access.
 * **Web App:** Chart.js (rich interactive visuals)
 * **Desktop App:** PyQt5 + Matplotlib (limited by framework)
 
+![alt text](image-1.png)
 ---
 
 ## 📄 PDF Report
@@ -158,6 +161,8 @@ This project uses **Basic Authentication** for API access.
 * View last 5 uploaded datasets using Postman
 * Includes timestamps and summary data
 
+![alt text](image-3.png)
+
 ---
 
 ## 📬 Contact
@@ -167,7 +172,7 @@ This project uses **Basic Authentication** for API access.
 
 ---
 
-⭐ If you like this project, give it a star!
+
 
 ---
 
